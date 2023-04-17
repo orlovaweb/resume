@@ -1769,6 +1769,7 @@ input, select, textarea {
 		.image.fit {
 			display: block;
 			width: 100%;
+			
 		}
 
 		.image.featured {
@@ -1986,8 +1987,9 @@ input, select, textarea {
 /* Item */
 
 	.item {
-		box-shadow: 0 0.05em 0.15em 0 rgba(0, 0, 0, 0.05);
+		/* box-shadow: 0 0.05em 0.15em 0 rgba(0, 0, 0, 0.05); */
 		margin-bottom: 40px;
+		box-shadow: 3px 3px 13px 3px rgba(102,  99,  99, 0.5);
 	}
 
 		.item header {
